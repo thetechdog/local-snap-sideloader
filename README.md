@@ -8,6 +8,7 @@ You need to have at least Java 21 installed.
 Open the project folder in IntelliJ IDEA and you can build from there.  
 ## Features
 - Open and install snap package files
+- Upgrade/Downgrade an already installed package
 - Remove an already installed snap package
 - Support for installing snap packages that require classic confinement
 - View package details (name, version, description, etc)
