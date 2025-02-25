@@ -65,7 +65,7 @@ public class LocalPackageInstaller extends JFrame {
                                   The BSD License for the JGoodies Forms
                                   ======================================
                     
-                    Copyright (c) 2002-2015 JGoodies Software GmbH. All rights reserved.
+                    Copyright (c) 2002-2008 JGoodies Karsten Lentzsch. All rights reserved.
                     
                     Redistribution and use in source and binary forms, with or without\s
                     modification, are permitted provided that the following conditions are met:
@@ -77,7 +77,7 @@ public class LocalPackageInstaller extends JFrame {
                        this list of conditions and the following disclaimer in the documentation\s
                        and/or other materials provided with the distribution.\s
                        \s
-                     o Neither the name of JGoodies Software GmbH nor the names of\s
+                     o Neither the name of JGoodies Karsten Lentzsch nor the names of\s
                        its contributors may be used to endorse or promote products derived\s
                        from this software without specific prior written permission.\s
                        \s
