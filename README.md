@@ -20,8 +20,7 @@ Copyright (C) 2025 Andrei Ionel - Local Snap Package Sideloader
 This program makes use of the JGoodies Forms library v1.2.1 which is Copyright (c) 2002-2008 JGoodies Karsten Lentzsch.
 ## Other
 Snap packages documentation: https://snapcraft.io/docs/the-snap-format  
-## Screenshots  
-The UI:
+## Screenshots
 ![Screenshot From 2025-02-25 13-01-43](https://github.com/user-attachments/assets/fc1e01fc-ee91-49c4-a3e3-9d9477fe4acd)
 ![Screenshot From 2025-02-25 13-02-11](https://github.com/user-attachments/assets/0eff87d4-0ecc-4c86-8a07-5a22c6e59159)
 ![Screenshot From 2025-02-25 13-02-39](https://github.com/user-attachments/assets/cee7d833-9793-4dbe-8777-0e51eb59c2e4)
