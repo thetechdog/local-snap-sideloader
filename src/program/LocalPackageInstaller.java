@@ -38,7 +38,7 @@ public class LocalPackageInstaller extends JFrame {
             String[] buttons={"Acknowledged","About JGoodies Forms"};
             int answerAbout=JOptionPane.showOptionDialog(LPIFrame, """
                         Local Snap Package Sideloader
-                        Version 1.0
+                        Version 1.0.1
                         A program to install local snap package files.
                         Copyright (C) 2024-2025 ANDREI IONEL
                         --------------------------------------------------------------------
