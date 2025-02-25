@@ -4,6 +4,7 @@ the likes of GDebi written in Java and using Swing.
 ## Running
 Download the .jar file from releases and run it.  
 You need to have at least Java 21 installed.
+If you're having issues, try running it using "java -jar" from command line.
 ## Building
 Open the project folder in IntelliJ IDEA and you can build from there.  
 ## Features
