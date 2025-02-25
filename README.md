@@ -1,6 +1,9 @@
 # Local Snap Package Sideloader
 A graphical frontend for sideloading .snap packages inspired by  
 the likes of GDebi written in Java and using Swing.   
+## Running
+Download the .jar file from releases and run it.
+You need at least Java 21.
 ## Building
 Open the project folder in IntelliJ IDEA and you can build from there.  
 ## Features
