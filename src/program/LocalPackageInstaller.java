@@ -40,7 +40,7 @@ public class LocalPackageInstaller extends JFrame {
                         Local Snap Package Sideloader
                         Version 1.0
                         A program to install local snap package files.
-                        Copyright (C) 2025 ANDREI IONEL
+                        Copyright (C) 2024-2025 ANDREI IONEL
                         --------------------------------------------------------------------
                         This program is free software: you can redistribute it and/or modify
                         it under the terms of the GNU General Public License as published by
