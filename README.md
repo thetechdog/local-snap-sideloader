@@ -17,7 +17,7 @@ Open the project folder in IntelliJ IDEA and you can build from there.
 - Visual feedback for actions (loading bar)
 - Clearing the currently opened package
 ## Credits
-Copyright (C) 2025 Andrei Ionel - Local Snap Package Sideloader  
+Copyright (C) 2024-2025 Andrei Ionel - Local Snap Package Sideloader  
 This program makes use of the JGoodies Forms library v1.2.1 which is Copyright (c) 2002-2008 JGoodies Karsten Lentzsch.
 ## Other
 Snap packages documentation: https://snapcraft.io/docs/the-snap-format  
